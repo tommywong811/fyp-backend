@@ -1,0 +1,6 @@
+/keypoints_database.p
+/node_modules/
+/test_set/
+/training_set/
+/model_newest.h5
+/.empty/
